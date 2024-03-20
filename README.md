@@ -1,5 +1,5 @@
 # Sentiment_Analysis
-Sentiment Analysis Tool 
+Sentiment Analysis Tool for Text
 
 A command-line tool to perform sentiment analysis on text.
 
